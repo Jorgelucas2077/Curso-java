@@ -12,7 +12,6 @@ public class Exercicio4 {
         int nota4;
         double media;
 
-        //boolean resultado1 = (valor1 == 3) && (valor2 == 4);
         System.out.println("Digite a primeira nota:");
         nota1 = mediaScanner.nextInt();
 
