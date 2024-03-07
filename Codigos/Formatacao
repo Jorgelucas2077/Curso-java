@@ -1,0 +1,15 @@
+package Codigos;
+
+public class Formatacao {
+    
+    // \t = Tab
+    // \b = backspace
+    // \n = nova linha
+    // \r = retorno de carro
+    // \f = avanço de pagina
+    // \' = aspas simples
+    // \" = aspas duplas
+    // \\ = Barra invertida
+    // \ddd = constante vertical
+    // \uxxxx = constante hexadecimal
+}

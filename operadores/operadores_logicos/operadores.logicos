@@ -1,0 +1,8 @@
+ Operadores e descrição
+
+    &   =   AND
+    |   =   OR 
+    ^   =   XOR 
+    ||  =   OR curto circuito
+    &&  =   AND curco circuito 
+    !   =   NOT
