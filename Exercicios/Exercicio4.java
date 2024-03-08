@@ -6,23 +6,23 @@ public class Exercicio4 {
     public static void main(String[]args){
         Scanner mediaScanner = new Scanner(System.in);
         
-        int nota1;
-        int nota2;
-        int nota3;
-        int nota4;
+        double nota1;
+        double nota2;
+        double nota3;
+        double nota4;
         double media;
 
         System.out.println("Digite a primeira nota:");
-        nota1 = mediaScanner.nextInt();
+        nota1 = mediaScanner.nextDouble();
 
         System.out.println("Digite a segunda nota");
-        nota2 = mediaScanner.nextInt();
+        nota2 = mediaScanner.nextDouble();
 
         System.out.println("Digite a terceira nota");
-        nota3 = mediaScanner.nextInt();
+        nota3 = mediaScanner.nextDouble();
 
         System.out.println("Digite a quarta nota");
-        nota4 = mediaScanner.nextInt();
+        nota4 = mediaScanner.nextDouble();
 
         media = (nota1 + nota2 + nota3 + nota4) / 4;
         
