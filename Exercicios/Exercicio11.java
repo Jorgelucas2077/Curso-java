@@ -18,7 +18,7 @@ public class Exercicio11 {
         double numR2 = ((num1 * 3)+ num3);
         double numR3 = Math.pow(num3, 3);
 
-        System.out.println("O resultado da questão A:" +" "+ numR1 + "\b\n" + "Resultado da questão B:"+" "+ numR2 + "\b\n" + "Resultado da questão C:"+" "+ numR3);
+        System.out.println("Resultado da questão A:" +" "+ numR1 + "\b\n" + "Resultado da questão B:"+" "+ numR2 + "\b\n" + "Resultado da questão C:"+" "+ numR3);
         convertScanner.close();
     }
     
